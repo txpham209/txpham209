@@ -1,5 +1,5 @@
  - Hi, I’m Tommy X. Pham
-- interested in AI, Graphics, and GPUs
+- interested in AI, Graphics, GPUs + more
 - 📫 How to reach me pham.tommy7@gmail.com
 
 <!---
